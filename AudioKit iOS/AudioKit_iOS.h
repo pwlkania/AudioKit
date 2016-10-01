@@ -224,3 +224,4 @@ FOUNDATION_EXPORT const unsigned char AudioKit_iOSVersionString[];
 #import <AudioKit_iOS/AKLevelMeter.h>
 #import <AudioKit_iOS/AKPropertyLabel.h>
 #import <AudioKit_iOS/AKPropertySlider.h>
+#import <AudioKit_iOS/CsoundObj.h>
